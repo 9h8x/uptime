@@ -4,35 +4,39 @@
     "url": "https://invidious.jns.net.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/invidious.jns.net.ar.ico",
     "slug": "invidious",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 809,
-    "timeWeek": 698,
-    "timeMonth": 698,
-    "timeYear": 698,
-    "dailyMinutesDown": {}
+    "time": 625,
+    "timeDay": 463,
+    "timeWeek": 625,
+    "timeMonth": 625,
+    "timeYear": 625,
+    "dailyMinutesDown": {
+      "2024-09-07": 0
+    }
   },
   {
     "name": "Jellyfin",
     "url": "https://jelly.jns.net.ar/",
     "icon": "https://icons.duckduckgo.com/ip3/jelly.jns.net.ar.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 815,
-    "timeWeek": 701,
-    "timeMonth": 701,
-    "timeYear": 701,
-    "dailyMinutesDown": {}
+    "time": 632,
+    "timeDay": 481,
+    "timeWeek": 632,
+    "timeMonth": 632,
+    "timeYear": 632,
+    "dailyMinutesDown": {
+      "2024-09-07": 0
+    }
   }
 ]
