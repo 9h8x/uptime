@@ -9,19 +9,18 @@ sites:
     url: https://jelly.jns.net.ar/
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.jns.net.ar
   name: Uptime
   # baseUrl: /uptime
+  favicon: https://raw.githubusercontent.com/9h8x/uptime/master/assets/icon.png
   logoUrl: https://raw.githubusercontent.com/9h8x/uptime/master/assets/icon.png
-  introTitle: 
-  introMessage: 
+  introTitle: "Status of services self-hosted by [**myself**](https://github.com/9h8x)"
   navbar:
     - title: Status
       href: /
-    - title: Invidious
-      href: https://invidious.jns.net.ar/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
