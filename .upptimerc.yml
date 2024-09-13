@@ -7,6 +7,8 @@ sites:
     url: https://invidious.jns.net.ar/
   - name: Jellyfin
     url: https://jelly.jns.net.ar/
+  - name: Webpage (Self-Hosted)
+    url: https://jns.net.ar
 
 status-website:
   theme: night
